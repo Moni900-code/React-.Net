@@ -1,0 +1,9 @@
+          <ThirdComp/>         
+          <Notification/>
+          <ImageMasonry/>
+          <IntroPage/>
+          <FirstComponent/>
+          <GenderRadio/>
+          <SecondComponent/>
+          <Navigation/>
+          <ProfileImage/>
